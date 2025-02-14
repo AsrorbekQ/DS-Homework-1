@@ -1,4 +1,4 @@
-**Homework 1**
-Student:
+**Homework 1** 
 
-Asrorbek Qalandarov — 230216
+ Student:
+ Asrorbek Qalandarov — 230216
